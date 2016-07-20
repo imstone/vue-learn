@@ -1,5 +1,5 @@
 
-![image icon](http://vuejs.org.cn/images/logo.png =20*20)
+![image icon](http://vuejs.org.cn/images/logo.png)
 ##VUE源码学习笔记
 ####入口
 > 从src文件夹下开始看起
