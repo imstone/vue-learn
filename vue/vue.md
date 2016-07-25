@@ -110,7 +110,11 @@ Object 对象自有hasOwnProperty的封装。检查对象是不是存在属性�
 	function toNumber
 检查数字类字符串输出数字
 
-	function 
+	export function def 
+定义一个对象的属性并赋值一些基本属性，比如是否可枚举。
+
+	export function debounce
+延迟函数 
 
 
 
