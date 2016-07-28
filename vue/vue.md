@@ -117,4 +117,4 @@ Object 对象自有hasOwnProperty的封装。检查对象是不是存在属性�
 延迟函数 
 
 
-
+##### /src/instance/vue.js
