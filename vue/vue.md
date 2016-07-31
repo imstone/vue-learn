@@ -121,3 +121,7 @@ Object 对象自有hasOwnProperty的封装。检查对象是不是存在属性�
 
 
 	export function 
+	
+	
+	export function debounce
+延迟函数 
