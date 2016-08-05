@@ -126,3 +126,12 @@ Object 对象自有hasOwnProperty的封装。检查对象是不是存在属性�
 	export function debounce
 延迟函数 
 
+#### src/directives/public/if.js
+v-if 内置指令
+进入函数首先执行bind函数。
+第一步确认v-else是否存在，如果存在就移除else元素。
+并创建v-if的注释块，作为将来插入v-if里元素的参考点。
+
+
+
+
