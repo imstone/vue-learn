@@ -1,9 +1,9 @@
 
 
-##VUE源码学习笔记
+## VUE源码学习笔记
 入口从src文件夹开始看起
 
-###instance文件夹下是最基本的类方法
+### instance文件夹下是最基本的类方法
 
 >/instance/
 
